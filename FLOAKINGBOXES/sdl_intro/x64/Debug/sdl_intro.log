@@ -1,0 +1,20 @@
+﻿  main_turret_simulated_annealing.cpp
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(108): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(148): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\ale\documents\game 3 sem\game 2342 game devel c++\simulated_annealing_fitboxes\sdl_intro\main_turret_simulated_annealing.cpp(148): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_RenderFillRect referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+main_turret_simulated_annealing.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+SDL2-2.0.10\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2-2.0.10\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\ALE\Documents\GAME 3 sem\GAME 2342 GAME DEVEL C++\simulated_Annealing_fitboxes\x64\Debug\sdl_intro.exe : fatal error LNK1120: 9 unresolved externals

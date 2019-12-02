@@ -1,0 +1,12 @@
+﻿  floaking2.cpp
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(161): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(172): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(179): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(243): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\ale\documents\game 3 sem\game 2319 game engine\floakingboxes\sdl_intro\floaking2.cpp(243): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  sdl_intro.vcxproj -> C:\Users\ALE\Documents\GAME 3 sem\GAME 2319 GAME ENGINE\FLOAKINGBOXES\Debug\sdl_intro.exe
